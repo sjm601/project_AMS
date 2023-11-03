@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Project_AMS&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Project_AMS&fontAlign=80&fontAlignY=50&color=gradient)
 
 ## 프로젝트 개요
 * 계좌 관리 어플리케이션(Account Manager Application)
